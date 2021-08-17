@@ -1,3 +1,5 @@
+## This is the alias of `react-customize-token-input`. Use [react-customize-token-input](https://www.npmjs.com/package/react-customize-token-input/) instead 😛
+
 # React TokenInput [![build status](https://travis-ci.org/seawind543/react-token-input.svg?branch=master)](https://travis-ci.org/seawind543/react-token-input) [![Coverage Status](https://coveralls.io/repos/github/seawind543/react-token-input/badge.svg?branch=master)](https://coveralls.io/github/seawind543/react-token-input?branch=master)
 
 [![NPM](https://nodei.co/npm/react-customize-token-input.png?downloads=true&stars=true)](https://www.npmjs.com/package/react-customize-token-input/)
